@@ -1,0 +1,1 @@
+/home/student/IdeaProjects/OOP/build/classes/kotlin/main/MainKt.class:/home/student/IdeaProjects/OOP/build/classes/kotlin/main/car.class
